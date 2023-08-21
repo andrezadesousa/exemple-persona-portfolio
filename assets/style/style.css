@@ -301,6 +301,15 @@ img {
     box-shadow: 0 1px 16px hsla(0, 0%, 0%, .12);
 }
 
+/*Add shadow header*/
+.active-link{
+    color: var(--white-color);
+}
+
+.active-link::after{
+    width: 25%;
+}
+
 /*HOME*/
 .home__container{
     padding-top: 2rem;
@@ -974,4 +983,43 @@ img {
 .footer__copy a{
     color: var(--white-color);
     font-weight: var(--font-medium);
+}
+
+/*Scroll Bar*/
+::-webkit-scrollbar{
+    width: .6rem;
+    border-radius: .5rem;
+    background-color: hsl(0, 0%, 65%);
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: .5rem;
+    background-color: hsl(0, 0%, 55%);
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: hsl(0, 0%, 45%);
+}
+
+/*Scroll Up */
+.scrollup{
+    position: fixed;
+    right: 1rem;
+    bottom: -50%;
+    background-color: var(--black-color);
+    display: inline-block;
+    padding: 8px;
+    font-size: 1.25rem;
+    color: var(--white-color);
+    z-index: var(--z-tooltip);
+    transition: bottom .4s, transform .4s, background-color .4s;
+}
+
+.scrollup:hover{
+    transform: translateY(-.5rem);
+}
+
+/*Show scroll up*/
+.show-scroll{
+    bottom: 3rem;
 }
