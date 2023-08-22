@@ -17,4 +17,5 @@ Para esse proejto eu utilizei as seguintes tecnologias:
 - [API EmailJS](https://www.emailjs.com)
   
   <img src="https://github.com/andrezadesousa/exemple-personal-portfolio/blob/main/assets/image/home-bg.html.png"/>
-  <img src="https://github.com/andrezadesousa/exemple-personal-portfolio/blob/main/assets/image/home-gr-dark.png" />
+  <img src="https://github.com/andrezadesousa/exemple-personal-portfolio/blob/main/assets/image/home-gr-dark.png"/>
+
