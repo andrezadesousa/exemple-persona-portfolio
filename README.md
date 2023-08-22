@@ -1,4 +1,3 @@
-# Site de portfólio pessoal responsivo usando HTML, CSS e JavaScript
 # Portfólio Responsivo Rian Lot
 
 ## 💻 Projeto
