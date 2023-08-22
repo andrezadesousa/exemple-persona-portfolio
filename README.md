@@ -1,8 +1,11 @@
-Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+# Site de portfólio pessoal responsivo usando HTML, CSS e JavaScript
+# Portfólio Responsivo Rian Lot
 
 ## 💻 Projeto
-- Projeto de um portfólio do Rian Lot. O projeto possue seções sobre a pessoa, projetos desenvolvidos e contato;
-- Desenvolvido com o conceito de Mobile First e variáveis no CSS;
+- Projeto de um portfólio do Rian Lot, utilizando HTML, CSS e JavaScript;
+- Desenvolvido com o conceito de Mobile First, depois para desktop;
+- O projeto possui animações e rolagem suave em cada seção;
+- Envio de e-mails na seção de contato;
 - Foi desenvolvido como forma de estudo sobre a API EmailJS e Dark Mode.
 
 ## 🧪 Tecnologias
@@ -13,5 +16,5 @@ Para esse proejto eu utilizei as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [API EmailJS](https://www.emailjs.com)
   
-  <img width="600" src="https://github.com/andrezadesousa/exemple-personal-portfolio/blob/main/assets/image/fullscreen.html.png" />
-  <img width="600" src="https://github.com/andrezadesousa/exemple-personal-portfolio/blob/main/assets/image/fullscreen-dark-theme.png" />
+  <img src="https://github.com/andrezadesousa/exemple-personal-portfolio/blob/main/assets/image/home-bg.html.png"/>
+  <img src="https://github.com/andrezadesousa/exemple-personal-portfolio/blob/main/assets/image/home-gr-dark.png" />
